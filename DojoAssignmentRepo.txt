@@ -1,0 +1,10 @@
+1.) Created Git in Dojo Assignments
+2.) Staged and Committed Contents of DojoAssignments
+3.) Created Origin Repository for DojoAssignments
+4.) Pushed master to origin
+5.) Modified Contents of DojoAssignments with readme.md
+6.) Staged and Committed new version of DojoAssignments
+7.) Pushed new DojoAssignments to Github
+8.) Created this Document and Outlined the steps
+9.) uploaded the Document to Coding Dojo Learning Platform
+10.) Felt Satisfaction
